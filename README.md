@@ -23,23 +23,11 @@ https://github.com/user-attachments/assets/fe8759c9-1e2f-4838-a92d-d3a964ae8ea8
 - Identify geographical and policy-based claim distributions
 - Detect outliers and analyze approval/rejection patterns
 
-## Files & Structure
-.
-├── data/
-│ └── insurance_claims.xlsx
-├── dashboard/
-│ └── mshivam980-gmailcom.pbix
-├── docs/
-│ ├── Dashboard.pdf
-│ └── Insurance-Claim-Case-Study.pdf
-├── README.md
-├── LICENSE
-└── .gitignore
+## Files 
 
 - **data/insurance_claims.xlsx:** Raw dataset (claims, policies, customers)
-- **dashboard/mshivam980-gmailcom.pbix:** Power BI dashboard file
+- **dashboard/Dashboard.pbix:** Power BI dashboard file
 - **docs/Dashboard.pdf:** Sample dashboard and key metrics
-- **docs/Insurance-Claim-Case-Study.pdf:** Problem statements, dataset schema, and visualization guidelines
 
 ## Power BI Dashboard Features
 
@@ -98,13 +86,12 @@ https://github.com/user-attachments/assets/fe8759c9-1e2f-4838-a92d-d3a964ae8ea8
 ## How to Use
 
 1. **Clone the repository**
-2. **Open `dashboard/mshivam980-gmailcom.pbix` in Power BI Desktop**
+2. **Open `dashboard/Dashboard.pbix` in Power BI Desktop**
 3. **If prompted, set the data source path to `data/insurance_claims.xlsx`**
 4. **Explore the dashboard using interactive filters and visuals**
 
 ## References
 
-- See `docs/Insurance-Claim-Case-Study.pdf` for detailed problem statements, data dictionary, and visualization standards.
 - `docs/Dashboard.pdf` provides sample dashboard screenshots and KPIs.
 
 ## License
