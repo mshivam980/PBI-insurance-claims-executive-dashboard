@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive Power BI dashboard for insurance claims analytics. The dashboard enables executives and analysts to monitor claim trends, profitability, processing efficiency, approval/rejection rates, and geographical distribution, all powered by real-world data.
 
+https://github.com/user-attachments/assets/fe8759c9-1e2f-4838-a92d-d3a964ae8ea8
+
 ## Overview
 
 - **Total Claims Submitted:** 10,000+
